@@ -98,7 +98,7 @@ To see the template running, open your browser and go to `http://localhost:4000`
 ## Deployment
 
 Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.
-Starting version [v0.3.5](https://github.com/NachoMtnz/Portfolio/releases/tag/v0.3.5), **Portfolio** will automatically re-deploy your webpage each time you push new changes to your repository **main branch**! :sparkles:
+ **Portfolio** will automatically re-deploy your webpage each time you push new changes to your repository **main branch**! :sparkles:
 
 ### For personal and organization webpages
 
