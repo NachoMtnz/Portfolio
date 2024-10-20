@@ -29,7 +29,7 @@ Academics around the world use this theme for their homepages, blogs, lab pages,
 Check out the community webpages below.
 Feel free to add your own page(s) by sending a PR.
 
-<table>
+<!--table>
 <tr>
 <td>Academics</td>
 <td>
@@ -200,7 +200,7 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 Workshop on Structured Probabilistic Inference & Generative Modeling (ICML: <a href="https://spigmworkshop.github.io/" target="_blank">2023</a>, <a href="https://spigmworkshop2024.github.io/" target="_blank">2024</a>)
 </td>
 </tr>
-</table>
+</table-->
 
 ## Lighthouse PageSpeed Insights
 
@@ -317,7 +317,7 @@ You can easily create your own collections, apps, short stories, courses, or wha
 ### Layouts
 
 **Portfolio** comes with stylish layouts for pages and blog posts.
-
+<!--
 #### The iconic style of Distill
 
 The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
@@ -439,7 +439,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<!--table>
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://maruan.NachoMtnz.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
@@ -448,7 +448,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
       <td align="center" valign="top" width="14.28%"><a href="https://george-gca.github.io/"><img src="https://avatars.githubusercontent.com/u/31376482?v=4" width="100px;" alt=""/><br /><sub><b>George</b></sub></a></td>
     </tr>
   </tbody>
-</table>
+</table-->
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
